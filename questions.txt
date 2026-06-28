@@ -1,0 +1,40 @@
+MC
+1
+What is the capital of Vietnam?
+Hanoi
+Ho Chi Minh City
+Da Nang
+Hue
+0
+MC
+2
+Which programming language is this app written in?
+Java
+Python
+C++
+JavaScript
+2
+MC
+3
+How many days are there in a leap year?
+365
+366
+364
+367
+1
+MC
+4
+What is the largest ocean on Earth?
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Pacific Ocean
+3
+MC
+5
+Which planet is known as the Red Planet?
+Earth
+Mars
+Jupiter
+Saturn
+1
